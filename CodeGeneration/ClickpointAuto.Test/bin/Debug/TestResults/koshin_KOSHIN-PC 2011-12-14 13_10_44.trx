@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="afd6bb52-76ad-4452-84bc-eb99f3b7f6c2" name="koshin@KOSHIN-PC 2011-12-14 13:10:44" runUser="CLICKPOINT\koshin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3d0e2f26-fb90-45a1-afb1-08fffadd452d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="koshin_KOSHIN-PC 2011-12-14 13_10_44" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-14T13:10:44.6849343-07:00" queuing="2011-12-14T13:10:45.6704051-07:00" start="2011-12-14T13:10:46.2230370-07:00" finish="2011-12-14T13:11:11.6213065-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateOptionsMacroTest" storage="c:\dev\codespace\codegeneration\clickpointauto.test\bin\debug\clickpointauto.test.dll" id="96bddcd4-3519-3441-e5e0-8b3089333c85">
+      <Execution timeOut="1800000" id="0f709592-b9b2-484d-8413-4f932be49f7a" />
+      <TestMethod codeBase="C:/Dev/CodeSpace/CodeGeneration/ClickpointAuto.Test/bin/Debug/ClickpointAuto.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClickpointAuto.Test.GenerateOptionsMacroFactoryTest, ClickpointAuto.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateOptionsMacroTest" />
+      <AspNet webSiteUrl="http://localhost:50483/">
+        <Host pathToWebApp="C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="96bddcd4-3519-3441-e5e0-8b3089333c85" executionId="0f709592-b9b2-484d-8413-4f932be49f7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0f709592-b9b2-484d-8413-4f932be49f7a" testId="96bddcd4-3519-3441-e5e0-8b3089333c85" testName="CreateOptionsMacroTest" computerName="KOSHIN-PC" startTime="2011-12-14T13:10:46.5038388-07:00" endTime="2011-12-14T13:11:11.3348837-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f709592-b9b2-484d-8413-4f932be49f7a">
+      <Output>
+        <ErrorInfo>
+          <Message>The Web request 'http://localhost:50483/' completed successfully without running the test. This can occur when configuring the Web application for testing fails (an ASP.NET server error occurs when processing the request), or when no ASP.NET page is executed (the URL may point to an HTML page, a Web service, or a directory listing). Running tests in ASP.NET requires the URL to resolve to an ASP.NET page and for the page to execute properly up to the Load event. The response from the request is stored in the file 'WebRequestResponse_CreateOptionsMacroTe.html' with the test results; typically this file can be opened with a Web browser to view its contents.</Message>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="KOSHIN-PC\WebRequestResponse_CreateOptionsMacroTe.html" />
+      </ResultFiles>
+    </UnitTestResult>
+  </Results>
+</TestRun>

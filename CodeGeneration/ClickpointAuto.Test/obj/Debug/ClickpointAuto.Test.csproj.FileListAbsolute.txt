@@ -1,0 +1,16 @@
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickpointAuto.Test.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickpointAuto.Test.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickPointAuto.Core.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickpointAuto.Interfaces.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickpointAuto.Web.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\EntityFramework.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\StructureMap.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickPointAuto.Core.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickpointAuto.Interfaces.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\ClickpointAuto.Web.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\EntityFramework.xml
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\StructureMap.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\bin\Debug\StructureMap.xml
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\obj\Debug\ClickpointAuto.Test.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Test\obj\Debug\ClickpointAuto.Test.pdb

@@ -1,0 +1,5 @@
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Interfaces\bin\Debug\ClickpointAuto.Interfaces.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Interfaces\bin\Debug\ClickpointAuto.Interfaces.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Interfaces\obj\Debug\ClickpointAuto.Interfaces.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Interfaces\obj\Debug\ClickpointAuto.Interfaces.pdb

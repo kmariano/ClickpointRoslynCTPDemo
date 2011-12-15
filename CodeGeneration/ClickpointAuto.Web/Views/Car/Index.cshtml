@@ -1,0 +1,21 @@
+﻿@using ClickpointAuto.Core.Models
+@model IEnumerable<ClickPointAuto.Core.Models.CarModel>
+
+@{
+    ViewBag.Title = "Our Inventory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+ <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" 
+          rel="stylesheet" type="text/css"/>
+<script src="@Url.Content("~/Scripts/clickpointauto.js")" type="text/javascript"></script>
+
+<h2>Inventory</h2>
+@foreach (var carModel in Model)
+{
+    Html.RenderPartial("PartialDetails", carModel);
+}
+
+<div id="optionsdialog" hidden="hidden">
+  <h2>Car Package Options</h2>
+  <ol id="caroptions"></ol>
+</div>

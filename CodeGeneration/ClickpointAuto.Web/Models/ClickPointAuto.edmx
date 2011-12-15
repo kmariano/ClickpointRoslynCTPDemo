@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ClickPointAuto.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="ClickPointAutoStoreContainer">
+          <EntitySet Name="Car" EntityType="ClickPointAuto.Store.Car" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Car">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Model" Type="varchar" MaxLength="50" />
+          <Property Name="Color" Type="varchar" MaxLength="50" />
+          <Property Name="Price" Type="decimal" Scale="2" />
+          <Property Name="OptionsMacroText" Type="varchar(max)" />
+          <Property Name="SportsPackage" Type="bit" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ClickPointAuto.Data" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+        <EntityContainer Name="ClickPointAutoContext" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Cars" EntityType="ClickPointAuto.Data.Car" />
+        </EntityContainer>
+        <EntityType Name="Car">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="Model" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Color" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="Decimal" Name="Price" Precision="18" Scale="2" />
+          <Property Type="String" Name="OptionsMacroText" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Type="Boolean" Name="SportsPackage" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="ClickPointAuto" />
+        <Alias Key="Target" Value="ClickPointAuto.Store" />
+        <EntityContainerMapping CdmEntityContainer="ClickPointAutoContext" StorageEntityContainer="ClickPointAutoStoreContainer">
+          <EntitySetMapping Name="Cars">
+            <EntityTypeMapping TypeName="ClickPointAuto.Data.Car">
+              <MappingFragment StoreEntitySet="Car">
+                <ScalarProperty Name="SportsPackage" ColumnName="SportsPackage" />
+                <ScalarProperty Name="OptionsMacroText" ColumnName="OptionsMacroText" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+                <ScalarProperty Name="Color" ColumnName="Color" />
+                <ScalarProperty Name="Model" ColumnName="Model" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram Name="ClickPointAuto" >
+        <EntityTypeShape EntityType="ClickPointAuto.Data.Car" Width="2.375" PointX="5.625" PointY="1.75" Height="1.9802864583333331" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

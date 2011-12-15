@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="ClickPointAuto" />
+  <Alias Key="Target" Value="ClickPointAuto.Store" />
+  <EntityContainerMapping CdmEntityContainer="ClickPointAutoContext" StorageEntityContainer="ClickPointAutoStoreContainer">
+    <EntitySetMapping Name="Cars">
+      <EntityTypeMapping TypeName="ClickPointAuto.Data.Car">
+        <MappingFragment StoreEntitySet="Car">
+          <ScalarProperty Name="SportsPackage" ColumnName="SportsPackage" />
+          <ScalarProperty Name="OptionsMacroText" ColumnName="OptionsMacroText" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

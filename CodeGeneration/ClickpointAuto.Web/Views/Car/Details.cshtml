@@ -1,0 +1,36 @@
+﻿@using ClickPointAuto.Core.Models
+@model CarModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+<fieldset>
+    <legend>CarModel</legend>
+
+    <div class="display-label">Model</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.VehicleModel)
+    </div>
+
+    <div class="display-label">Color</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Color)
+    </div>
+
+    <div class="display-label">Sport Package</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SportsPackage)
+    </div>
+    <div class="display-label">Price</div>
+    <div class="display-field">
+        @Model.Price.ToString("C2")
+    </div>
+</fieldset>
+   <p>
+     @Html.ActionLink("Back to Index", "Index", "Car")
+     @Html.ActionLink("Create" , "Create", "Car")
+   </p>
+</div>

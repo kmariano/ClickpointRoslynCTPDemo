@@ -1,0 +1,451 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Shared/f:_HeaderPartial.cshtml" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Models/d:Core/d:Linq/f:QueryableExtensions.cs" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Models/d:Core/d:EntityFramework/f:ObjectContextExtensions.cs" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/f:Global.asax.cs" caret="1237" fromTop="28" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Models/f:ClickPointAuto.Designer.cs" caret="3380" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Repositories/f:Repository.cs" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Repositories/f:ICarRepository.cs" caret="0" fromTop="0" />
+      <File id="16DD2395-73C5-4AA9-B5EC-89993D0B2ED9/f:ICar.cs" caret="119" fromTop="6" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="16DD2395-73C5-4AA9-B5EC-89993D0B2ED9/f:ICarModel.cs" caret="79" fromTop="1" />
+      <File id="D44D913D-2652-41D3-B78C-106F65DB870D/f:GenerateOptionsMacroFactoryTest.cs" caret="3483" fromTop="43" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:CarModelFactory.cs" caret="0" fromTop="0" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:PartialDetails.cshtml" caret="50" fromTop="1" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:Details.cshtml" caret="42" fromTop="1" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:Create.cshtml" caret="33" fromTop="0" />
+      <File id="16DD2395-73C5-4AA9-B5EC-89993D0B2ED9/f:ICarModelFactory.cs" caret="171" fromTop="6" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/f:DependencyInjectionSetup.cs" caret="523" fromTop="18" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:ShowOptions.cshtml" caret="29" fromTop="1" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Shared/f:_Layout.cshtml" caret="102" fromTop="5" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:jquery-ui-1.8.11.js" caret="23576" fromTop="18" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:Index.cshtml" caret="617" fromTop="16" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1165" fromTop="16" />
+      <File id="16DD2395-73C5-4AA9-B5EC-89993D0B2ED9/f:IGenerateOptionsMacroFactory.cs" caret="104" fromTop="5" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:GenerateOptionsMacroFactory.cs" caret="354" fromTop="6" />
+      <File id="16DD2395-73C5-4AA9-B5EC-89993D0B2ED9/f:IGenerateOptionsMacro.cs" caret="101" fromTop="5" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="521" fromTop="17" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Models/f:CarModel.cs" caret="664" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/f:DependencyInjectionSetup.cs" caret="708" fromTop="21" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="7" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="33" fromTop="1" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="2378" fromTop="22" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="20" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="23" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="21" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="21" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="15" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="23" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="17" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="16" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="17" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="14" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="6" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="9" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1680" fromTop="16" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:Index.cshtml" caret="416" fromTop="7" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Views/d:Car/f:Index.cshtml" caret="629" fromTop="16" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Scripts/f:clickpointauto.js" caret="1165" fromTop="19" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="2378" fromTop="18" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="1426" fromTop="24" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="1012" fromTop="23" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:GenerateOptionsMacroFactory.cs" caret="253" fromTop="6" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:GenerateOptionsMacroFactory.cs" caret="2268" fromTop="38" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:GenerateOptionsMacroFactory.cs" caret="1280" fromTop="23" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="364" fromTop="8" />
+      <File id="7574AB48-F759-4EA2-8F01-EF5816D641F7/d:Controllers/f:CarController.cs" caret="1757" fromTop="32" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:GenerateOptionsMacroFactory.cs" caret="1649" fromTop="35" />
+      <File id="66997C54-E7C0-4472-B11E-97407371177D/d:Factories/f:GenerateOptionsMacroFactory.cs" caret="2544" fromTop="45" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="23" />
+      <Item value="string" priority="9" />
+      <Item value="List" priority="7" />
+      <Item value="Product`0" priority="2" />
+      <Item value="static" priority="1" />
+      <Item value="IGenerateOptionListMacro`0" priority="4" />
+      <Item value="using" priority="6" />
+      <Item value="System" priority="2" />
+      <Item value="CodeDom" priority="0" />
+      <Item value="Compiler" priority="0" />
+      <Item value="var" priority="16" />
+      <Item value="new" priority="23" />
+      <Item value="codeProvider" priority="2" />
+      <Item value="null" priority="6" />
+      <Item value="CodeNamespace`0" priority="0" />
+      <Item value="product" priority="9" />
+      <Item value="CodeNameSpace" priority="0" />
+      <Item value="macroNameSpace" priority="6" />
+      <Item value="CodeNamespaceImport" priority="0" />
+      <Item value="CodeTypeDeclaration`0" priority="0" />
+      <Item value="CodeTypeDeclaration" priority="0" />
+      <Item value="macroClass" priority="5" />
+      <Item value="CodeTypeReference" priority="1" />
+      <Item value="typeof" priority="9" />
+      <Item value="macroInterfaceType" priority="1" />
+      <Item value="true" priority="3" />
+      <Item value="CodeMemberMethod`0" priority="0" />
+      <Item value="generateOptionListMethod" priority="5" />
+      <Item value="CodeParameterDeclarationExpression" priority="0" />
+      <Item value="CodeStatement" priority="0" />
+      <Item value="CodeSnippetCompileUnit`0" priority="0" />
+      <Item value="CodeSnippetCompileUnit" priority="0" />
+      <Item value="csu" priority="1" />
+      <Item value="CodeSnippetStatement`0" priority="1" />
+      <Item value="codeSnippetStatement" priority="1" />
+      <Item value="CodeSnippetStatement" priority="0" />
+      <Item value="Public" priority="0" />
+      <Item value="MemberAttributes`0" priority="0" />
+      <Item value="CodeAttributeDeclaration" priority="0" />
+      <Item value="GenericTypeParameter" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="macro" priority="3" />
+      <Item value="CodeCompileUnit`0" priority="0" />
+      <Item value="codeCompileUnit" priority="5" />
+      <Item value="CodeCompileUnit" priority="2" />
+      <Item value="CompilerParameters`0" priority="0" />
+      <Item value="compilerParameters" priority="4" />
+      <Item value="CompilerParameters" priority="0" />
+      <Item value="compiledAssembly" priority="4" />
+      <Item value="as" priority="2" />
+      <Item value="return" priority="8" />
+      <Item value="MacroFactory`0" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="Console`0" priority="0" />
+      <Item value="optionList" priority="0" />
+      <Item value="CompilationOptions`0" priority="1" />
+      <Item value="compilation" priority="14" />
+      <Item value="snapshot" priority="0" />
+      <Item value="embedInteropTypes" priority="0" />
+      <Item value="Syntax`0" priority="1" />
+      <Item value="SyntaxTree`0" priority="3" />
+      <Item value="SyntaxNode`0" priority="0" />
+      <Item value="codeSnippet" priority="0" />
+      <Item value="ParseOptions`0" priority="0" />
+      <Item value="codeSyntaxTree" priority="1" />
+      <Item value="AssemblyBytesReference`0" priority="0" />
+      <Item value="Activator`0" priority="2" />
+      <Item value="assembly" priority="5" />
+      <Item value="AllowEmptyStrings" priority="0" />
+      <Item value="ErrorMessage" priority="2" />
+      <Item value="Required" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="CarModel`0" priority="5" />
+      <Item value="Car`0" priority="3" />
+      <Item value="int" priority="1" />
+      <Item value="_context" priority="6" />
+      <Item value="char" priority="2" />
+      <Item value="c" priority="11" />
+      <Item value="ClickpointAuto" priority="0" />
+      <Item value="ClickPointAutoContext`0" priority="1" />
+      <Item value="id" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="car" priority="8" />
+      <Item value="void" priority="2" />
+      <Item value="if" priority="1" />
+      <Item value="GC`0" priority="0" />
+      <Item value="IQueryable" priority="0" />
+      <Item value="ObjectContext`0" priority="0" />
+      <Item value="StructureMap" priority="0" />
+      <Item value="DependencyInjectionSetup`0" priority="0" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="from" priority="0" />
+      <Item value="cars" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="Color" priority="1" />
+      <Item value="Id" priority="2" />
+      <Item value="Price" priority="2" />
+      <Item value="OptionsMacroText" priority="2" />
+      <Item value="VehicleModel" priority="1" />
+      <Item value="carModels" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="_carModelFactory" priority="1" />
+      <Item value="Object`0" priority="0" />
+      <Item value="ICarModelFactory`0" priority="1" />
+      <Item value="CarModelFactory" priority="0" />
+      <Item value="Repository" priority="2" />
+      <Item value="SportsPackage" priority="1" />
+      <Item value="carModel" priority="2" />
+      <Item value="ActionResult`0" priority="0" />
+      <Item value="AcceptVerbs" priority="0" />
+      <Item value="HttpVerbs`0" priority="0" />
+      <Item value="IOptionsMacroFactory`0" priority="2" />
+      <Item value="_optionsMacroFactory" priority="0" />
+      <Item value="ObjectFactory`0" priority="0" />
+      <Item value="IGenerateOptionsMacro`0" priority="6" />
+      <Item value="GenerateOptionsMacroFactory" priority="0" />
+      <Item value="PartialView`0" priority="1" />
+      <Item value="Roslyn" priority="0" />
+      <Item value="Compilers" priority="0" />
+      <Item value="CSharp" priority="0" />
+      <Item value="codeFile" priority="1" />
+      <Item value="Compilation`0" priority="0" />
+      <Item value="MetadataReference" priority="0" />
+      <Item value="Factories" priority="0" />
+      <Item value="AssemblyFileReference`0" priority="1" />
+      <Item value="syntaxTree" priority="0" />
+      <Item value="diagnostics" priority="1" />
+      <Item value="target" priority="0" />
+      <Item value="ICarModel`0" priority="0" />
+      <Item value="CarModel" priority="0" />
+      <Item value="Assert`0" priority="1" />
+      <Item value="result" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="Assembly`0" priority="2" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="Create" priority="0" />
+      <Item value="fileStream" priority="1" />
+      <Item value="EmitResult`0" priority="0" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="compileResult" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="diagnostic" priority="2" />
+      <Item value="IGenerateOptionsMacroFactory`0" priority="0" />
+      <Item value="GenerateOptionsMacroFactory`0" priority="0" />
+      <Item value="JsonResult`0" priority="1" />
+      <Item value="Json`0" priority="0" />
+      <Item value="options" priority="1" />
+      <Item value="AllowGet" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeGeneration.Classes.Product">
+      <Item value="GetType`0" priority="1" />
+      <Item value="OptionListMacro" priority="3" />
+      <Item value="OptionA" priority="0" />
+      <Item value="OptionC" priority="0" />
+      <Item value="OptionD" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Namespace" priority="0" />
+      <Item value="Assembly" priority="6" />
+      <Item value="FullName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeNamespace">
+      <Item value="Imports" priority="1" />
+      <Item value="Types" priority="0" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeNamespaceImportCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeTypeDeclaration">
+      <Item value="BaseTypes" priority="0" />
+      <Item value="IsClass" priority="0" />
+      <Item value="Members" priority="1" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeTypeReferenceCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeTypeMemberCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeMemberMethod">
+      <Item value="Parameters" priority="0" />
+      <Item value="Statements" priority="1" />
+      <Item value="UserData" priority="0" />
+      <Item value="Attributes" priority="0" />
+      <Item value="ReturnType" priority="1" />
+      <Item value="ReturnTypeCustomAttributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeParameterDeclarationExpressionCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeStatementCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeAttributeDeclarationCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeTypeDeclarationCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeCompileUnit">
+      <Item value="Namespaces" priority="0" />
+      <Item value="ReferencedAssemblies" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.CodeNamespaceCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.CSharp.CSharpCodeProvider">
+      <Item value="CompileAssemblyFromDom`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.Compiler.CompilerParameters">
+      <Item value="GenerateInMemory" priority="0" />
+      <Item value="OutputAssembly" priority="0" />
+      <Item value="CompilerOptions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.CodeDom.Compiler.CompilerResults">
+      <Item value="CompiledAssembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="CreateInstance`0" priority="2" />
+      <Item value="Location" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CodeGeneration.Classes.MacroFactory">
+      <Item value="GetMacro`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeGeneration.Classes.IGenerateOptionListMacro">
+      <Item value="GenerateOptionList`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.StringCollection">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.Compilation">
+      <Item value="Create`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.Compilation">
+      <Item value="AddReferences`0" priority="4" />
+      <Item value="SyntaxTrees" priority="0" />
+      <Item value="ContainsSyntaxTree`0" priority="0" />
+      <Item value="AddSyntaxTrees`0" priority="2" />
+      <Item value="SourceModule" priority="0" />
+      <Item value="Assembly" priority="3" />
+      <Item value="CreateDefaultWin32Resources`0" priority="1" />
+      <Item value="Emit`0" priority="1" />
+      <Item value="GetDiagnostics`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.SyntaxTree">
+      <Item value="ParseCompilationUnit`0" priority="4" />
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Roslyn.Compilers.CSharp.ParseOptions">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.SyntaxTree">
+      <Item value="Root" priority="0" />
+      <Item value="GetReference`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.ModuleSymbol">
+      <Item value="ContainingAssembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.AssemblySymbol">
+      <Item value="GetType`0" priority="0" />
+      <Item value="Modules" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Models.ClickPointAutoContext">
+      <Item value="Cars" priority="1" />
+      <Item value="Dispose`0" priority="0" />
+      <Item value="AddToCars`0" priority="1" />
+      <Item value="SaveChanges`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="Where`0" priority="2" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Models.Car">
+      <Item value="Id" priority="2" />
+      <Item value="Color" priority="1" />
+      <Item value="Price" priority="2" />
+      <Item value="OptionsMacroText" priority="1" />
+      <Item value="Model" priority="0" />
+      <Item value="SportsPackage" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.GC">
+      <Item value="SuppressFinalize`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ClickpointAuto.Web.DependencyInjectionSetup">
+      <Item value="SetupDependencyInjection`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="3" />
+      <Item value="HasValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StructureMap.ObjectFactory">
+      <Item value="GetInstance`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Factories.ICarModelFactory">
+      <Item value="GetCars`0" priority="0" />
+      <Item value="GetCarModel`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Repositories.ICarRepository">
+      <Item value="GetAllCars`0" priority="0" />
+      <Item value="FindCar`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.HttpVerbs">
+      <Item value="Get" priority="0" />
+      <Item value="Head" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Factories.IGenerateOptionsMacroFactory">
+      <Item value="CreateOptionsMacro`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Models.IGenerateOptionsMacro">
+      <Item value="GenerateOptions`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Models.CarModel">
+      <Item value="OptionsMacroText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ClickpointAuto.Web.Factories.GenerateOptionsMacroFactory">
+      <Item value="CreateOptionsMacro`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsNotNull`0" priority="1" />
+      <Item value="IsInstanceOfType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="LoadFrom`0" priority="0" />
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.EmitResult">
+      <Item value="Diagnostics" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Roslyn.Compilers.CSharp.Diagnostic">
+      <Item value="Location" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IInitializationExpression">
+      <Item value="For`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Configuration.DSL.Expressions.CreatePluginFamilyExpression`1">
+      <Item value="Use`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

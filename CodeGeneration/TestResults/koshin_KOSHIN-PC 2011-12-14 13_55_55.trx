@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="37b43644-41b8-453b-b0af-63ee82b94980" name="koshin@KOSHIN-PC 2011-12-14 13:55:55" runUser="CLICKPOINT\koshin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="3d0e2f26-fb90-45a1-afb1-08fffadd452d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="koshin_KOSHIN-PC 2011-12-14 13_55_55">
+      <DeploymentItem filename="C:\Dev\CodeSpace\CodeGeneration\ClickPointAuto.Core\bin\Debug\ClickPointAuto.Core.dll" />
+      <DeploymentItem filename="C:\Dev\CodeSpace\CodeGeneration\packages\EntityFramework.4.1.10715.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Dev\CodeSpace\CodeGeneration\packages\structuremap.2.6.3\lib\StructureMap.dll" />
+      <DeploymentItem filename="C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickpointAuto.Web.dll" />
+      <DeploymentItem filename="C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Interfaces\bin\Debug\ClickpointAuto.Interfaces.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-14T13:55:55.3168323-07:00" queuing="2011-12-14T13:56:00.1940718-07:00" start="2011-12-14T13:56:00.7171241-07:00" finish="2011-12-14T13:58:27.0671372-07:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="KOSHIN-PC" outcome="Error" timestamp="2011-12-14T13:58:27.0671372-07:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateOptionsMacroTest" storage="c:\dev\codespace\codegeneration\clickpointauto.test\bin\debug\clickpointauto.test.dll" id="96bddcd4-3519-3441-e5e0-8b3089333c85">
+      <Execution id="5843ec05-0edf-4c31-ab32-c1090f29b885" />
+      <TestMethod codeBase="C:/Dev/CodeSpace/CodeGeneration/ClickpointAuto.Test/bin/Debug/ClickpointAuto.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClickpointAuto.Test.GenerateOptionsMacroFactoryTest, ClickpointAuto.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateOptionsMacroTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\dev\codespace\codegeneration\clickpointauto.test\bin\debug\clickpointauto.test.dll" id="805f3fe5-3a2e-b78e-95b5-03b0de704940">
+      <Execution id="5cc365d9-8dbd-44c3-b4ae-dd497f68dbdc" />
+      <TestMethod codeBase="C:/Dev/CodeSpace/CodeGeneration/ClickpointAuto.Test/bin/Debug/ClickpointAuto.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ClickpointAuto.Test.UnitTest1, ClickpointAuto.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="805f3fe5-3a2e-b78e-95b5-03b0de704940" executionId="5cc365d9-8dbd-44c3-b4ae-dd497f68dbdc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="96bddcd4-3519-3441-e5e0-8b3089333c85" executionId="5843ec05-0edf-4c31-ab32-c1090f29b885" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5cc365d9-8dbd-44c3-b4ae-dd497f68dbdc" testId="805f3fe5-3a2e-b78e-95b5-03b0de704940" testName="TestMethod1" computerName="KOSHIN-PC" duration="00:00:00.0106336" startTime="2011-12-14T13:56:00.9763398-07:00" endTime="2011-12-14T13:56:03.3383205-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cc365d9-8dbd-44c3-b4ae-dd497f68dbdc">
+    </UnitTestResult>
+    <UnitTestResult executionId="5843ec05-0edf-4c31-ab32-c1090f29b885" testId="96bddcd4-3519-3441-e5e0-8b3089333c85" testName="CreateOptionsMacroTest" computerName="KOSHIN-PC" duration="00:02:23.7178156" startTime="2011-12-14T13:56:03.3493216-07:00" endTime="2011-12-14T13:58:27.0671372-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5843ec05-0edf-4c31-ab32-c1090f29b885">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="7574AB48-F759-4EA2-8F01-EF5816D641F7" ModuleId="ClickpointAuto.Web" />
+  <Module PersistentId="16DD2395-73C5-4AA9-B5EC-89993D0B2ED9" ModuleId="ClickpointAuto.Interfaces" />
+  <Module PersistentId="D44D913D-2652-41D3-B78C-106F65DB870D" ModuleId="ClickpointAuto.Test" />
+  <Module PersistentId="66997C54-E7C0-4472-B11E-97407371177D" ModuleId="ClickPointAuto.Core" />
+</Modules>

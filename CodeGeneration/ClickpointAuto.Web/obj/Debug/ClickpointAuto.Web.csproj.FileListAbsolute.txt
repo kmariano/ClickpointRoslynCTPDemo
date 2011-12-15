@@ -1,0 +1,14 @@
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickpointAuto.Web.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickpointAuto.Web.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickPointAuto.Core.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickpointAuto.Interfaces.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\EntityFramework.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\StructureMap.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickPointAuto.Core.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\ClickpointAuto.Interfaces.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\EntityFramework.xml
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\StructureMap.pdb
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\bin\StructureMap.xml
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\obj\Debug\ClickpointAuto.Web.dll
+C:\Dev\CodeSpace\CodeGeneration\ClickpointAuto.Web\obj\Debug\ClickpointAuto.Web.pdb
